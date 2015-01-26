@@ -2,6 +2,11 @@
 
 
 
+.Button-block,
+.Button {
+  display: block;
+}
+
 .Button {
   color: red;
   background: -webkit-linear-gradient(top, #5C1BD0 0%, #7836FA 100%);
@@ -11,7 +16,7 @@
 .Button--default {
   color: purple;
   font-size: 32px;
-  fonr-size: 2rem;
+  font-size: 2rem;
 }
 
 /** @define Grid */

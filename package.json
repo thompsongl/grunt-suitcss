@@ -44,7 +44,7 @@
     "css"
   ],
   "dependencies": {
-    "suitcss-preprocessor": "git://github.com/thompsongl/preprocessor.git#inherit",
+    "suitcss-preprocessor": "git://github.com/thompsongl/preprocessor.git#thompsongl",
     "rework-suit-conformance": "^0.4.1",
     "rework": "^1.0.1",
     "component-resolver": "^1.2.1",
