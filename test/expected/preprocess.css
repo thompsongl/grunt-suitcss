@@ -10,6 +10,8 @@
 
 .Button--default {
   color: purple;
+  font-size: 32px;
+  fonr-size: 2rem;
 }
 
 /** @define Grid */
@@ -20,4 +22,3 @@
   width: 100px;
   color: purple;
 }
-

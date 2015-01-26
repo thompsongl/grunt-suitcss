@@ -4,9 +4,15 @@
   --Button-color: red;
 }
 
+.Button-block {
+  display: block;
+}
+
 .Button {
   color: var(--Button-color);
   background: linear-gradient(to bottom, #5C1BD0 0%, #7836FA 100%);
+  font-size: 2rem;
+  extend: .Button-block;
 }
 
 .Button--default {
